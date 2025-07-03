@@ -8,6 +8,11 @@ Aplicación de mapas basada en Next.js que utiliza el Kit Digital UC y Mapbox GL
    ```bash
    npm install
    ```
+   Si la compilación falla con el mensaje `Module not found: Can't resolve 'react-map-gl/mapbox'`,
+   instala explícitamente las dependencias necesarias:
+   ```bash
+   npm install react-map-gl@^8 mapbox-gl
+   ```
 2. Definir el token de Mapbox en un archivo `.env.local`:
    ```bash
    NEXT_PUBLIC_MAPBOX_TOKEN=tu_token
