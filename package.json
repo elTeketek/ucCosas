@@ -1,0 +1,20 @@
+{
+  "name": "uccosas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@digitaluc/uc-kitdigital": "^1.86.0",
+    "mapbox-gl": "^3.13.0",
+    "next": "^14.2.30",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
