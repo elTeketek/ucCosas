@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sanjoaquin",
+    "name": "Campus San Joaquín",
+    "imageUrl": "https://placehold.co/100x60",
+    "center": [-70.651, -33.441],
+    "bbox": [[-70.66, -33.45], [-70.64, -33.43]]
+  },
+  {
+    "id": "casacentral",
+    "name": "Casa Central",
+    "imageUrl": "https://placehold.co/100x60",
+    "center": [-70.663, -33.437],
+    "bbox": [[-70.666, -33.44], [-70.66, -33.435]]
+  }
+]
