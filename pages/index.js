@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import Map, { Marker, NavigationControl } from 'react-map-gl/mapbox';
+import Map, { Marker, NavigationControl } from '@vis.gl/react-mapbox';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import styles from '../styles/KitDigital.module.css';
 
